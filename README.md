@@ -46,7 +46,37 @@
 </pre>
 
 <h4 align="center">
-  <img src="images/oldFast.png" width="1000"/>
+  <img src="images/game1.jpg" width="1000"/>
+  <br>
+  На данном скриншоте изображены страницы с информацией о прошедших фестивалях
+</h4>
+
+<pre>
+     
+</pre>
+
+<h4 align="center">
+  <img src="images/game2.jpg" width="1000"/>
+  <br>
+  На данном скриншоте изображены страницы с информацией о прошедших фестивалях
+</h4>
+
+<pre>
+     
+</pre>
+
+<h4 align="center">
+  <img src="images/game3.jpg" width="1000"/>
+  <br>
+  На данном скриншоте изображены страницы с информацией о прошедших фестивалях
+</h4>
+
+<pre>
+     
+</pre>
+
+<h4 align="center">
+  <img src="images/viborjpg.jpg" width="1000"/>
   <br>
   На данном скриншоте изображены страницы с информацией о прошедших фестивалях
 </h4>
