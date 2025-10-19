@@ -56,6 +56,9 @@ Visual Studio
 
 <h4 align="center">
   <img src="images/game1.jpg" width="1000"/>
+  <pre>
+     
+</pre>
   <br>
   На данном скриншоте изображен один из фрагментов повествования игры
 </h4>
@@ -66,6 +69,9 @@ Visual Studio
 
 <h4 align="center">
   <img src="images/game2.jpg" width="1000"/>
+  <pre>
+     
+</pre>
   <br>
   На данном скриншоте изображен один из фрагментов повествования игры
 </h4>
@@ -76,6 +82,9 @@ Visual Studio
 
 <h4 align="center">
   <img src="images/game3.jpg" width="1000"/>
+  <pre>
+     
+</pre>
   <br>
   На данном скриншоте изображен один из фрагментов повествования игры
 </h4>
