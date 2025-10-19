@@ -19,7 +19,7 @@
 <h2>Скриншоты </h2>
 
 <h4 align="center">
-  <img src="images/startStraniza.png" width="1000"/>
+  <img src="images/start.png" width="1000"/>
   <br>
   На данном скриншоте изображены главные страницы, которые содержат информацию об актуальных фестивалях
 </h4>
@@ -29,7 +29,7 @@
 </pre>
 
 <h4 align="center">
-  <img src="images/sajavka.png" width="1000"/>
+  <img src="images/opisanie.png" width="1000"/>
   <br>
   На данном скриншоте изображены страницы для оформления заявки для участия
 </h4>
