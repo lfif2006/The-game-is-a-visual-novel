@@ -34,6 +34,9 @@
 
 <h4 align="center">
   <img src="images/opisanie.png" width="1000"/>
+  <pre>
+      
+</pre>
   <br>
   На данном скриншоте изображены страницы для оформления заявки для участия
 </h4>
