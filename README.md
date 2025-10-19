@@ -14,7 +14,7 @@
 <img src="images/plan.jpg" width="1000"/>
 
 <h2>Ссылка на скачивание </h2>
-<a href="https://www.figma.com/design/R0YI7VVeclQTquqY6f75H1/Untitled?node-id=0-1&amp;p=f&amp;t=wGptOSa2A8P0VX5B-0">Открыть в Figma</a>
+<a href="https://t.me/+ZIq6PO8H5m8zOWQy">Открыть в Telegram</a>
 
 <h2>Скриншоты </h2>
 
